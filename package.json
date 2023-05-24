@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Class_inDesign/",
+    "build": "vite build --base=/html-css_87_KolosIryna/",
     "preview": "vite preview"
   },
   "devDependencies": {
